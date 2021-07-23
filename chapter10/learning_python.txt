@@ -1,0 +1,3 @@
+In Python you can bulid deep learning network.
+In Python you can process data.
+In Python you can crawl website.
